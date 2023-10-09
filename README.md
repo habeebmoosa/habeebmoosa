@@ -17,7 +17,7 @@ I'm a passionate MERN Stack Web Developer with a strong foundation in building s
 Here are some of the projects I've worked on:
 
 1. **Project 1**
-   - Description: HatShare is a platform for sharing files with the help of url links. It is a web application that allows users to upload files and share them with others.
+   - Description: HatShare is a platform for sharing files with the help of URL links. It is a web application that allows users to upload files and share them with others.
    - Technologies: NodeJS, ReactJs, ExpressJS, MongoDB, TailwindCSS etc.
    - GitHub Repository: [Link](https://github.com/habeebmoosa/hatshare)
 
@@ -27,16 +27,6 @@ Here are some of the projects I've worked on:
    - GitHub Repository: [Link]()
    - Live Demo: [Link](https://github.com/habeebmoosa/Generative-AI-Chatbot)
 
-## 🌱 Current Focus
-
-I'm currently working on [mention what you are currently focusing on or learning].
-
-## 📫 Let's Connect
-
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Email: habeebmoosadev@gmail.com
-- Portfolio: [Your Portfolio Website](https://www.yourportfolio.com)
-
 Feel free to reach out if you'd like to collaborate on a project or just chat about web development. I'm always excited to connect with fellow developers!
 
-Thanks for visiting my special repository! 😊
+Thanks for visiting my GitHub page! 😊

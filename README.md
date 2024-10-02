@@ -5,13 +5,14 @@ I'm a passionate MERN Stack Web Developer with a strong foundation in building s
 ## 🔧 Skills
 
 - **Languages**: Python, JavaScript, TypeScript, C/C++
-- **Frontend**: React.js, Next.js, Flask, HTML, CSS
+- **Frontend**: React.js, Next.js
 - **Backend**: Node.js, Express.js, Mongoose
-- **Tools**:  VS Code, Postman, npm
+- **AI**: LangChain, OpenAI, Gemini, Flowise AI
+- **Tools**:  VS Code, Postman, NPM, Pip
 - **Deployment**: Vercel, Microsoft Azure
-- **Database**: MongoDB, MySQL
+- **Database**: MongoDB, MySQL, Postgres
 - **Version Control**: Git, GitHub
-- **UI/UX**: Responsive Design, TailwindCSS, Shadcn UI, Bootstrap
+- **UI/UX**: TailwindCSS, Shadcn UI, Bootstrap
 
 ## VISIT MY PORTFOLIO
    Portfolio: [Link](https://habeebmoosa.vercel.app/)

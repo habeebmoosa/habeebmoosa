@@ -6,11 +6,11 @@ I'm a passionate MERN Stack Web Developer with a strong foundation in building s
 
 - **Languages**: Python, JavaScript, TypeScript, C/C++
 - **Frontend**: React.js, Next.js
-- **Backend**: Node.js, Express.js, Mongoose
+- **Backend**: Node.js, FastAPI
 - **AI**: LangChain, OpenAI, Gemini, Flowise AI
 - **Tools**:  VS Code, Postman, NPM, Pip
 - **Deployment**: Vercel, Microsoft Azure
-- **Database**: MongoDB, MySQL, Postgres
+- **Database**: MongoDB, MySQL, Postgres, Firebase, Supabase
 - **Version Control**: Git, GitHub
 - **UI/UX**: TailwindCSS, Shadcn UI, Bootstrap
 

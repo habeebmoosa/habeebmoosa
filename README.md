@@ -15,7 +15,7 @@ I'm a passionate MERN Stack Web Developer with a strong foundation in building s
 - **UI/UX**: TailwindCSS, Shadcn UI, Bootstrap
 
 ## VISIT MY PORTFOLIO
-   Portfolio: [Link](https://habeebmoosa.vercel.app/)
+   Portfolio: [Link](https://habeebmoosa.me/)
 
 Feel free to reach out if you'd like to collaborate on a project or just chat about web development. I'm always excited to connect with fellow developers!
 
